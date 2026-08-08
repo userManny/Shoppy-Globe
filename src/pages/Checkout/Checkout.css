@@ -1,0 +1,28 @@
+.checkout {
+  padding: 30px;
+}
+
+.checkout form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  gap: 10px;
+}
+
+.checkout input,
+.checkout textarea {
+  padding: 8px;
+  border: 1px solid #ccc;
+}
+
+.checkout textarea {
+  height: 80px;
+}
+
+.checkout button {
+  width: 120px;
+  padding: 8px;
+  background-color: #333;
+  color: white;
+  border: none;
+}

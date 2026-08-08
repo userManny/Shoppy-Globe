@@ -1,0 +1,12 @@
+.cart {
+  padding: 30px;
+}
+
+.cart h1 {
+  margin-bottom: 25px;
+}
+
+.cart a {
+  display: inline-block;
+  margin-top: 15px;
+}
