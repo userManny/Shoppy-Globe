@@ -90,5 +90,6 @@ src
 ├── index.css
 └── main.jsx
 ```
+## GitHub Repository
 
-
+[ShoppyGlobe GitHub Repository](https://github.com/userManny/Shoppy-Globe)
